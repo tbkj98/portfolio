@@ -1,0 +1,27 @@
+{
+    "name": "Anand Prakash Sharma",
+    "image": "",
+    "tagline": "Always learning and building.",
+    "about": "Software engineer, skilled in many technologies. Owning the product to produce the best possible results. Always learning and building.",
+    "social": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png",
+            "text": "Linkedin",
+            "url": "https://www.linkedin.com/in/anand-sharma-tbkj/"
+        }
+    ],
+    "education": [
+        {
+            "course": "B.Tech",
+            "college": "HMR Institute of Technology & Management",
+            "stream": "Computer Science and Engineering",
+            "marks": 7.4
+        },
+        {
+            "course": "12",
+            "college": "CBSE",
+            "stream": "Science",
+            "marks": 80
+        }
+    ]
+}

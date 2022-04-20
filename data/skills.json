@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Java",
+        "Experience": "2 Years",
+        "image_url": ""
+    },
+    {
+        "title": "Spring",
+        "Experience": "2 Years"
+    },
+    {
+        "title": "Spring Boot",
+        "Experience": "2 Years"
+    },
+    {
+        "title": "Solr",
+        "Experience": "1 Year"
+    },
+    {
+        "title": "Node.js",
+        "Experience": "1 Year"
+    }
+]
